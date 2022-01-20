@@ -9,3 +9,10 @@ h1{
 .subtitle{
     text-align: center;
 }
+.statement__groups__sql{
+    margin-top: 8px;
+    margin-bottom: 5px;
+    padding: 9px;
+    border: 1px solid #2F4F4F;
+    border-radius: 9px;
+}
