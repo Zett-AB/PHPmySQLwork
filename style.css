@@ -16,3 +16,9 @@ h1{
     border: 1px solid #2F4F4F;
     border-radius: 9px;
 }
+.code__php{
+    margin: 8px 8px 5px 9px;
+    padding: 9px;
+    border: 1px solid #DC143C;
+    border-radius: 9px;
+}
